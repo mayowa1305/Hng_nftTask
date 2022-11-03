@@ -10,7 +10,7 @@ install node.js on your computer.
 
 1. ### Clone the repo or downlod it.
 ```sh
-git clone 
+git clone https://github.com/mayowa1305/Hng_nftTask
 ```
 
 2. ### Install all dependencies.
